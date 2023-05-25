@@ -109,8 +109,8 @@ body{
 }
 
 .header .logo img{
-    width: 130%;
-    height: 3rem;
+    width: 220%;
+    height: 12rem;
     top: 0;
     left: 0;
 }
@@ -137,7 +137,7 @@ body{
 }
 
 .header .logo i{
-    padding: 0.5rem;
+    padding: 4.5rem;
 }
 
 .header .fa-bars{
@@ -1084,8 +1084,8 @@ body{
     }
 
     .header .logo img{
-        width: 20%;
-        height: 3rem;
+        width: 220%;
+        height: 12rem;
         top: 0;
         left: 0;
         background-size: cover;
@@ -1141,7 +1141,7 @@ body{
     }
     
     .home h2{
-        color: #fff;
+        color: rgb(255, 255, 255);
         font-size: 2rem;
     }
 

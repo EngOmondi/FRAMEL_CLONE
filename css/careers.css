@@ -32,8 +32,8 @@ body{
 }
 
 .header .logo img{
-    width: 20%;
-    height: 3rem;
+    width: 200%;
+    height: 18rem;
     top: 0;
     left: 0;
 }
@@ -60,7 +60,7 @@ body{
 }
 
 .header .logo i{
-    padding: 0.5rem;
+    padding: 6.5rem;
 }
 
 .header .fa-bars{
@@ -71,8 +71,8 @@ body{
 }
 
 .home{
-    min-height: 70vh;
-    width: 100vw;
+    min-height: 90vh;
+    width: 120vw;
     background-image: url(../images/fidm11.png);
     background-size: cover;
     display: flex;
@@ -86,8 +86,8 @@ body{
 }
 
 .home h2{
-    color: #fff;
-    font-size: 5.5rem;
+    color: rgb(187, 255, 254);
+    font-size: 6.5rem;
 }
 
 .career-heading{
@@ -449,8 +449,8 @@ body{
     }
 
     .header .logo img{
-        width: 20%;
-        height: 3rem;
+        width: 200%;
+        height: 18rem;
         top: 0;
         left: 0;
         background-size: cover;
@@ -500,12 +500,12 @@ body{
     }
 
     .home{
-        min-height: 60vh;
+        min-height: 70vh;
     }
 
     .home h2{
-        color: #fff;
-        font-size: 4rem;
+        color: hwb(0 100% 0%);
+        font-size: 6rem;
     }
 
     .back-to-top {
