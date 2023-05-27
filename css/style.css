@@ -109,8 +109,8 @@ body{
 }
 
 .header .logo img{
-    width: 220%;
-    height: 12rem;
+    width: 120%;
+    height: 7rem;
     top: 0;
     left: 0;
 }
@@ -137,7 +137,7 @@ body{
 }
 
 .header .logo i{
-    padding: 4.5rem;
+    padding: 2.5rem;
 }
 
 .header .fa-bars{
@@ -1084,8 +1084,8 @@ body{
     }
 
     .header .logo img{
-        width: 220%;
-        height: 12rem;
+        width: 120%;
+        height: 7rem;
         top: 0;
         left: 0;
         background-size: cover;
@@ -1355,3 +1355,52 @@ body{
             width: 100%;
         }
 }
+
+
+
+
+
+
+.working-hours {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .clock-icon {
+    display: inline-block;
+    width: 26px;
+    height: 16px;
+    background-image: url(../images/alarm-clock-icon.png); /* Replace with the path to your clock logo image */
+    background-size: cover;
+    margin-right: 10px;
+  }
+  
+  .working-hours li {
+    margin-bottom: 10px;
+    font-weight: 700;
+    font-size: 20px;
+    font-style: oblique;
+    color:#2867B2;
+  }
+  
+
+
+  @media (max-width: 767px) {
+    body {
+      font-size: 17px;
+    }
+  
+    h1 {
+      font-size: 23px;
+    }
+  }
+
+  @media (min-width: 768px) {
+    body {
+      font-size: 35px;
+    }
+  
+    h1 {
+      font-size: 35px;
+    }
+  }
